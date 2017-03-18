@@ -1,0 +1,29 @@
+h1{
+	font-family: monospace;
+	color:white !important;
+	float:left;
+}
+
+.header{
+	background-color:#535353 !important;
+	position:absolute;
+	top:0px;
+	left:0px;
+	right:0px;
+	height:8%;
+}
+
+ .topcorner{
+   position:absolute;
+   top:0;
+   right:0;
+  }
+
+/*Header button = hb*/
+.hb{
+	font-family:monospace;
+	color:white;
+	font-size: 22px !important;
+
+}
+
