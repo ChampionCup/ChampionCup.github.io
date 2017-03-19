@@ -7,11 +7,11 @@ h1{
 
 .header{
 	background-color:#88D317;
-	position:absolute;
+	position:fixed;
 	top:0px;
 	left:0px;
 	right:0px;
-	height:8%;
+	height:75px;
 }
 
  .topcorner{
@@ -27,4 +27,17 @@ h1{
 	font-size: 22px !important;
 
 }
+
+#firstdiv{
+	background-color: #6E3667; 
+	position:absolute;
+	top:75px;
+	left:0px;
+	height:400px;
+	width:100%;
+	font-family: monospace;
+	color:white;
+}
+
+
 
