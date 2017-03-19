@@ -43,6 +43,20 @@ h1{
 
 }
 
+div{
+	font-family: monospace;
+	color:white;
+}
+
+#productinformation{
+	height:400px;
+	position:absolute;
+	top:675px;
+	left:0px;
+	right:0px;
+	background-color:#535353;
+	font-size: 18px;
+}
 
 
 
