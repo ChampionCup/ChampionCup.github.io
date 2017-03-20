@@ -86,4 +86,15 @@ div{
 	overflow: scroll;
 }
 
+#contact{
+	height:400px;
+	position:absolute;
+	top:2075px;
+	left:0px;
+	right:0px;
+	background-color:#535353;
+	font-size:18px;
+	overflow:scroll;
+}
+
 
