@@ -12,6 +12,7 @@ h1{
 	left:0px;
 	right:0px;
 	height:75px;
+	z-index:1;
 }
 
  .topcorner{
@@ -46,6 +47,7 @@ h1{
 div{
 	font-family: monospace;
 	color:white;
+	clear:both;
 }
 
 #productinformation{
@@ -96,5 +98,7 @@ div{
 	font-size:18px;
 	overflow:scroll;
 }
+
+
 
 
